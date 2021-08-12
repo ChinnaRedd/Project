@@ -8,7 +8,7 @@
 </head>
 <body>
 	<form method="post" action="details">
-	Enter your No :<input type="text" name="id">
+	Enter your No  is:<input type="text" name="id">
 	Enter your Name :<input type="text" name="name">
 	Enter your email id :<input type="email" name="email">
 	<input type="submit">
